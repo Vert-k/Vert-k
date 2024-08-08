@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/Atp1bfyomJ4Jvnj67" alt="Neon Banner" />
+  <img src="https://github.com/Vert-k/Vert-k/blob/f934e61ab843ebbe7cf285f1a437c794711479db/Black%20and%20Blue%20Neon%20Technology%20Video_20240808_110408_0000.png" alt="Neon Banner" />
 </p>
 
 <h1 align="center" style="color:#00ffdd;">Welcome to My GitHub Profile!</h1>
