@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-neon-banner-image-link.com/banner.png" alt="Neon Banner" />
+  <img src="https://images.app.goo.gl/Atp1bfyomJ4Jvnj67" alt="Neon Banner" />
 </p>
 
 <h1 align="center" style="color:#00ffdd;">Welcome to My GitHub Profile!</h1>
@@ -14,10 +14,10 @@
 ## Connect with me
 
 <p align="center">
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/vert-k">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://t.me/your-telegram-username">
+  <a href="https://t.me/max_khalid">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
