@@ -1,50 +1,21 @@
-<p align="center">
-  <img src="https://github.com/Vert-k/Vert-k/blob/f934e61ab843ebbe7cf285f1a437c794711479db/Black%20and%20Blue%20Neon%20Technology%20Video_20240808_110408_0000.png" alt="Neon Banner" />
-</p>
+# 💫 About Me:
+👋 Hey there! I'm khaalid, a passionate beginner diving into full-stack web development. I'm currently learning HTML, CSS, JavaScript, and exploring various frameworks and tools. 🚀<br><br>🔭 I’m working on projects to sharpen my skills and contribute to open-source.<br><br>🌱 I’m currently learning React, Node.js, and other cool tech.<br><br>📫 Feel free to reach out or check out my repos for some of my work!<br><br>💬 Let's connect and build something awesome together!
 
-<h1 align="center" style="color:#00ffdd;">Welcome to My GitHub Profile!</h1>
 
-## About Me
-<p align="center">
-  <span style="color:#ff00ff;">Full Stack Developer</span> | <span style="color:#00ffdd;">Open Source Enthusiast</span> | <span style="color:#ff6600;">Tech Explorer</span>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/WquuexNY) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@khaalid_uchiha) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vert-k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vert-k&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vert-k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Connect with me
-
-<p align="center">
-  <a href="https://discord.com/users/vert-k">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://t.me/max_khalid">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vert-k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### My Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff6600">
-  <img src="https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=44b2fb">
-  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e">
-  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=306998">
-  <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=41ab49">
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vert-k&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vert-k&theme=radical" alt="GitHub Streak" />
-</p>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vert-k&theme=react-dark&bg_color=0d1117&color=00ffdd&line=ff00ff&point=ffffff" alt="GitHub Contribution Graph" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
