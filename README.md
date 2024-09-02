@@ -14,7 +14,7 @@
 ![](https://skillicons.dev/icons?i=html,css,js,github,react,nodejs)
 
 <p align="center">
-  <a href="https://t.me/somaliTej"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+  <a href="https://t.me/somaliTej"><img src="ca7f45ac69bbd70bf2a32f57ff9311fa.jpg"></a>
 </p>
 
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
