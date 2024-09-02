@@ -1,28 +1,31 @@
-# 💫 About Me:
-👋 Hey there! I'm khaalid, a passionate beginner diving into full-stack web development. I'm currently learning HTML, CSS, JavaScript, and exploring various frameworks and tools. 🚀<br><br>🔭 I’m working on projects to sharpen my skills and contribute to open-source.<br><br>🌱 I’m currently learning React, Node.js, and other cool tech.<br><br>📫 Feel free to reach out or check out my repos for some of my work!<br><br>💬 Let's connect and build something awesome together!
+<a href="https://github.com/vert-k">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+i'm+Khaalid+;From+Somalia%2C+Learning+Web+Development;web+Dev+guy!;Telegram%3A+%40Max_khalid" alt="https://t.me/cosmic_freak" />
+</a>
 
-
-## 🌐 Socials:
-
-  <a href="https://discord.com/users/vert-k">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://t.me/max_khalid">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+<p align="center">
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+    <img align="middle" src="https://profile-counter.glitch.me/vert-k/count.svg" />
 </p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vert-k&t&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<h1>ʜɪ ! ɪᴛ's ᴍᴇ ᴋʜᴀᴀʟɪᴅ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vert-k&theme=dark&hide_border=false)
+<h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" /></h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vert-k&t&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
+![](https://skillicons.dev/icons?i=html,css,js,github,react,nodejs)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://t.me/somaliTej"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+</p>
 
----
+<h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
 
-[![](https://visitcount.itsvg.in/api?id=Vert-k&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[<img src="https://github-readme-stats.vercel.app/api?username=vert-k&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What's+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/vert-k) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vert-k&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/vert-k)
+
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+<p align="center">
+  <a href="https://telegram.me/Max_khalid"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+  <a href="https://t.me/somaliTej"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
