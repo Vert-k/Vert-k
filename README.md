@@ -1,31 +1,94 @@
-<a href="https://github.com/vert-k">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+i'm+Khaalid+;From+Somalia%2C+Learning+Web+Development;web+Dev+guy!;Telegram%3A+%40Max_khalid" alt="https://t.me/cosmic_freak" />
-</a>
-
+<!-- 🔥 HEADER -->
 <p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-    <img align="middle" src="https://profile-counter.glitch.me/vert-k/count.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Khaalid;From+Somalia+🇸🇴;Web+Developer+in+Progress;Discord+Bot+Builder+⚡;Welcome+to+my+profile" />
 </p>
 
-<h1>ʜɪ ! ɪᴛ's ᴍᴇ ᴋʜᴀᴀʟɪᴅ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
-
-<h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" /></h2>
-
-![](https://skillicons.dev/icons?i=html,css,js,github,react,nodejs)
-
 <p align="center">
-  <a href="https://t.me/somaliTej"><img src="ca7f45ac69bbd70bf2a32f57ff9311fa.jpg"></a>
+  <img src="https://komarev.com/ghpvc/?username=vert-k&label=Profile+Views&color=00F7FF&style=flat" />
 </p>
 
-<h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
+---
 
-[<img src="https://github-readme-stats.vercel.app/api?username=vert-k&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What's+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/vert-k) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vert-k&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/vert-k)
-
-<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+<!-- 👋 INTRO -->
+<h1 align="center">👋 Hi, I'm Khaalid</h1>
 
 <p align="center">
-  <a href="https://telegram.me/Max_khalid"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+  💻 Upcoming Web Developer <br>
+  ⚡ Discord Bot Developer <br>
+  🌍 Somalia 🇸🇴
 </p>
+
+---
+
+<!-- ⚡ COOL BANNER -->
 <p align="center">
-  <a href="https://t.me/somaliTej"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header"/>
+</p>
+
+---
+
+<!-- 🧠 TECH STACK -->
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github" />
+</p>
+
+---
+
+<!-- 🎮 DISCORD STYLE CARD (FAKE WIDGET LOOK) -->
+<h2 align="center">🎮 Discord</h2>
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/974738506029084732?theme=dark&bg=000000&borderRadius=10px" />
+</p>
+
+<p align="center">
+  <b>Username:</b> vert_k
+</p>
+
+---
+
+<!-- 📊 STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vert-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vert-k&theme=tokyonight&hide_border=true&background=000000" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vert-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" width="50%" />
+</p>
+
+---
+
+<!-- 🚀 CURRENT -->
+<h2 align="center">🚀 Currently</h2>
+
+<p align="center">
+  🔭 Building Discord Bots <br>
+  🌱 Learning Backend & Node.js <br>
+  ⚡ Grinding to become pro developer
+</p>
+
+---
+
+<!-- 📬 CONTACT -->
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://discord.com/users/974738506029084732">
+    <img src="https://img.shields.io/badge/Discord-00F7FF?style=for-the-badge&logo=discord&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/404ghosting">
+    <img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<!-- ✨ FOOTER -->
+<p align="center">
+  ⚡ Keep building. Stay consistent. Level up. ⚡
 </p>
