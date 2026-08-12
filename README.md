@@ -48,3 +48,16 @@
 │                                                      │
 └──────────────────────────────────────────────────────┘
 
+<p align="center">
+  <i>「 The system is always evolving. 」</i>
+</p>
+
+<p align="center">
+  <code>01001011 01001000 01000001 01000001 01001100 01001001 01000100</code>
+</p>
+
+<br>
+<p align="center">
+  <sub>© Khaalid</sub>
+</p>
+```
