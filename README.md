@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="assets/khaalid-matrix-banner.svg" alt="Khaalid red Matrix developer banner" width="100%">
+<img src="https://i.imgur.com/Ft437LL.gif![Uploading image.gif…]()
+" alt="Khaalid red Matrix developer banner" width="100%">
 
 <br>
 
