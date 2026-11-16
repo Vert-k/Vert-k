@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260" role="img" aria-label="Placeholder for hero image or GIF">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12032b"/>
+      <stop offset="1" stop-color="#2a0e5c"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7b2ff7"/>
+      <stop offset="0.5" stop-color="#ff3cac"/>
+      <stop offset="1" stop-color="#00f5d4"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="812" height="252" rx="16" fill="url(#bg)"/>
+  <rect x="14" y="14" width="792" height="232" rx="12" fill="none" stroke="url(#stroke)" stroke-width="2.5" stroke-dasharray="14 10">
+    <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Fira Code, JetBrains Mono, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="410" y="108" font-size="40" fill="#c77dff">
+      ✦
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="410" y="148" font-size="20" font-weight="700" fill="#f3e8ff">YOUR ANIME IMAGE / GIF GOES HERE</text>
+    <text x="410" y="176" font-size="13" fill="#a78bfa">replace this file with hero.gif (best size: 820 x 260)</text>
+  </g>
+</svg>

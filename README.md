@@ -1,220 +1,99 @@
-<div align="center">
+<!-- ============================================================
+  README for vert_k  |  dark purple / terminal / anime theme
+  Search for "EDIT" in this file to find things you can change.
+============================================================ -->
 
-<img src="https://i.imgur.com/Ft437LL.gif![Uploading image.gif…]()
-" alt="Khaalid red Matrix developer banner" width="100%">
-
-<br>
-
-<img src="https://i.imgur.com/qozv8sv.jpeg" alt="Khaalid" width="155" height="155">
-
-# KHAALID
-
-### Web Developer · Discord Bot Developer
-
-<p>
-  I build sharp web experiences, powerful Discord communities, and digital
-  systems that feel useful, fast, and alive.
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12032b,50:4a1d96,100:7b2ff7&height=220&section=header&text=vert_k&fontSize=72&fontColor=e9d5ff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%9C%A6%20Networking%20Student&descSize=18&descAlignY=60&descColor=c77dff" alt="header" width="100%"/>
 </p>
 
-<a href="https://discord.gg/uBUm6Ruh">
-  <img src="https://img.shields.io/badge/Discord-Add%20me%20as%20a%20friend-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Khaalid on Discord">
-</a>
-<a href="https://t.me/Max_khalid">
-  <img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message Khaalid on Telegram">
-</a>
-
-</div>
-
----
-
-## `$ whoami`
-
-```text
-name       : Khaalid
-focus      : Web development and Discord bot development
-specialty  : Turning ideas into working digital experiences
-style      : Clean interfaces with a futuristic edge
-currently  : Building, learning, and shipping
-```
-
-I am a developer who enjoys transforming ideas into products people can
-actually use. My work lives between the web and online communities, from
-responsive interfaces and dashboards to custom Discord bots, automation,
-economy systems, and tools that make communities more interactive.
-
-<p>
-  <strong>My work is guided by clarity, creativity, consistency, and the
-  discipline to keep improving after the first version works.</strong>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C77DFF&center=true&vCenter=true&width=640&height=50&lines=%3E+booting+vert_k.exe+...;Full-Stack+Web+Developer;Studying+Networking+%E2%80%A2+TCP%2FIP+%E2%80%A2+Linux;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%80%94+welcome+to+my+universe+%E2%9C%A6;Turning+caffeine+into+pixels+(%E0%B9%91%CB%83%E1%B4%97%CB%82)%EF%BB%AD" alt="typing animation"/>
 </p>
 
-## Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Web Development</h3>
-      <p>Creating responsive websites, landing pages, dashboards, and custom tools with a strong focus on usability, structure, and visual detail.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Discord Bot Development</h3>
-      <p>Building community bots with economy systems, games, moderation, tickets, verification, rewards, permissions, and server automation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Product Thinking</h3>
-      <p>Taking a rough idea, shaping the experience, building the core system, testing the important details, and turning it into something people want to use.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Creative Technology</h3>
-      <p>Exploring Matrix inspired interfaces, subtle motion, interactive layouts, and memorable digital experiences with personality.</p>
-    </td>
-  </tr>
-</table>
-
-## What I build
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>Web Experiences</h3>
-      <p>Modern pages, interfaces, tools, and dashboards that look polished on every screen.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Discord Systems</h3>
-      <p>Useful bots and community features that give servers their own identity.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Automation</h3>
-      <p>Smart workflows that reduce repetitive work and keep communities active.</p>
-    </td>
-  </tr>
-</table>
-
-## Tech universe
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<!-- ============================================================
+  EDIT: YOUR IMAGE / GIF
+  1) Upload your image or gif to this repo and name it hero.gif
+  2) Change  hero-placeholder.svg  below to  hero.gif
+============================================================ -->
+<p align="center">
+  <img src="hero-placeholder.svg" alt="hero image" width="820"/>
 </p>
+
+<br/>
+
+<!-- ANIMATED TERMINAL SCREEN -->
+<p align="center">
+  <img src="terminal.svg" alt="terminal" width="820"/>
+</p>
+
+<br/>
+
+<h2 align="center">⟨ 🌌 about.js ⟩</h2>
 
 ```js
-const khaalid = {
-  role: ["web developer", "discord bot developer"],
-  buildsWith: ["JavaScript", "Node.js", "HTML", "CSS", "Discord.js"],
-  worksOn: ["web apps", "community bots", "automation", "creative tools"],
-  mindset: "learn clearly, build boldly, ship consistently",
+// ✦ ─────────────────────────────────── ✦
+const vert_k = {
+  codename : "vert_k",
+  role     : "Full-Stack Web Developer",
+  studying : ["Networking", "TCP/IP", "Linux"],
+  mission  : "Build things that feel like magic ✨",
+  vibe     : ["dark mode", "purple neon", "anime", "late-night code"],
+  status   : "ONLINE 🟣",
+  contact  : { discord: "vert_k", telegram: "@vert_49" },
 };
+// ✦ ─────────────────────────────────── ✦
 ```
 
-## Featured project
+<h2 align="center">⟨ ⚡ skills.loadout() ⟩</h2>
 
-### NasiibBot
+<!-- EDIT: add or remove badges to match your real stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-12032b?style=for-the-badge&logo=html5&logoColor=c77dff" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-12032b?style=for-the-badge&logo=css3&logoColor=c77dff" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-12032b?style=for-the-badge&logo=javascript&logoColor=c77dff" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-12032b?style=for-the-badge&logo=react&logoColor=c77dff" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-12032b?style=for-the-badge&logo=nodedotjs&logoColor=c77dff" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-12032b?style=for-the-badge&logo=git&logoColor=c77dff" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-12032b?style=for-the-badge&logo=linux&logoColor=c77dff" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-12032b?style=for-the-badge&logo=wireshark&logoColor=c77dff" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Cisco-12032b?style=for-the-badge&logo=cisco&logoColor=c77dff" alt="Cisco"/>
+</p>
 
-A community focused Discord bot with economy, games, banking, rewards,
-permissions, tickets, verification, voting, and server management systems.
-
-NasiibBot is designed to make a community feel active and connected. It gives
-members reasons to interact, compete, earn rewards, and build a shared identity.
-
-## Developer mode
-
-<details>
-<summary><strong>Click to open my build philosophy</strong></summary>
-
-<br>
-
-```text
-01  Start with a clear idea
-02  Make the first version work
-03  Make the experience feel intentional
-04  Test the important details
-05  Ship it
-06  Improve it with real feedback
-```
-
-I believe strong projects are built in layers. Start with a clear purpose, make
-the core experience work, then improve the design, performance, and details
-until the product feels like something people would choose to use.
-
-</details>
-
-<details>
-<summary><strong>Click to open my current interests</strong></summary>
-
-<br>
-
-<ul>
-  <li>Modern web interfaces</li>
-  <li>Discord automation and community infrastructure</li>
-  <li>Game inspired economy systems</li>
-  <li>Developer tools and creative technology</li>
-  <li>Clean visual design with subtle motion</li>
-</ul>
-
-</details>
-
-<details>
-<summary><strong>Click to open the terminal</strong></summary>
-
-<br>
-
-```bash
-$ connect --user khaalid
-$ load --skills web-development discord-bots
-$ build --with curiosity
-$ deploy --when-ready
-
-status: online
-signal: learning
-mode: shipping
-```
-
-</details>
-
-## Let’s connect
-
-Have an idea, need a Discord bot, or want to build something for the web?
-Send me a message and let’s turn it into something real.
+<h2 align="center">⟨ 📡 connect --open ⟩</h2>
 
 <p align="center">
-  <a href="https://discord.gg/uBUm6Ruh">
-    <img src="https://img.shields.io/badge/Discord-Add%20me%20as%20a%20friend-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add Khaalid on Discord">
-  </a>
-  <a href="https://t.me/Max_khalid">
-    <img src="https://img.shields.io/badge/Telegram-Message%20Max__khalid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message Khaalid on Telegram">
+  <img src="https://img.shields.io/badge/Discord-vert__k-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: vert_k"/>
+  &nbsp;
+  <a href="https://t.me/vert_49">
+    <img src="https://img.shields.io/badge/Telegram-@vert__49-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @vert_49"/>
   </a>
 </p>
 
-## GitHub profile setup
+```bash
+$ ./contact --list
+  discord   >>  vert_k
+  telegram  >>  @vert_49      # t.me/vert_49
+$ _
+```
 
-To use this as your actual GitHub profile README:
+<h2 align="center">⟨ 📊 stats.sys ⟩</h2>
 
-<ol>
-  <li>Create a public repository with the exact same name as your GitHub username.</li>
-  <li>Rename this file to <code>README.md</code>.</li>
-  <li>Copy <code>assets/khaalid-matrix-banner.svg</code> into an <code>assets/</code> folder.</li>
-  <li>Keep the image URL or replace it with your own profile photo.</li>
-  <li>Add your GitHub username to your project links when you are ready.</li>
-</ol>
+<!-- ============================================================
+  EDIT: replace YOUR_GITHUB_USERNAME (2 places below) with your real GitHub username
+============================================================ -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=12032b&title_color=c77dff&text_color=e9d5ff&icon_color=ff3cac&border_color=4a1d96" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=12032b&ring=c77dff&fire=ff3cac&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&dates=c77dff&stroke=4a1d96&border=4a1d96" alt="GitHub streak"/>
+</p>
 
-<blockquote>
-  GitHub supports HTML, links, tables, images, badges, and expandable
-  <code>&lt;details&gt;</code> sections inside profile READMEs. Custom CSS and
-  JavaScript are restricted, so this profile uses GitHub safe HTML and animated
-  SVG instead of scripts GitHub would remove.
-</blockquote>
+<br/>
 
----
+<p align="center"><i>「 Code is just magic you can debug. 」 ✦</i></p>
 
-<div align="center">
-
-### `BUILD SOMETHING THAT FEELS LIKE YOU.`
-
-<sub>Made by Khaalid · Web developer · Discord bot developer</sub>
-
-</div>
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:4a1d96,100:12032b&height=140&section=footer&reversal=true" alt="footer" width="100%"/>
+</p>

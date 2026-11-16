@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="420" viewBox="0 0 820 420" role="img" aria-label="Animated terminal window for vert_k">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12032b"/>
+      <stop offset="1" stop-color="#1e0b45"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2d1b69"/>
+      <stop offset="1" stop-color="#4a1d96"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b2ff7"/>
+      <stop offset="0.5" stop-color="#ff3cac"/>
+      <stop offset="1" stop-color="#00f5d4"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="0.35" cy="0.35" r="0.8">
+      <stop offset="0" stop-color="#c77dff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#3c096c" stop-opacity="0.2"/>
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" opacity="0.22"/>
+    </pattern>
+    <clipPath id="win"><rect x="10" y="10" width="800" height="400" rx="16"/></clipPath>
+
+    <clipPath id="c1"><rect x="36" y="76" width="0" height="22"><animate attributeName="width" from="0" to="250" dur="1s" begin="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="36" y="102" width="0" height="22"><animate attributeName="width" from="0" to="470" dur="1.2s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="36" y="142" width="0" height="22"><animate attributeName="width" from="0" to="430" dur="1.2s" begin="3.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="36" y="168" width="0" height="22"><animate attributeName="width" from="0" to="300" dur="0.8s" begin="4.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="36" y="190" width="0" height="22"><animate attributeName="width" from="0" to="300" dur="0.8s" begin="5.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="36" y="212" width="0" height="22"><animate attributeName="width" from="0" to="300" dur="0.8s" begin="6.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="36" y="252" width="0" height="22"><animate attributeName="width" from="0" to="340" dur="1s" begin="7.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c8"><rect x="36" y="278" width="0" height="22"><animate attributeName="width" from="0" to="220" dur="0.8s" begin="8.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c9"><rect x="36" y="300" width="0" height="22"><animate attributeName="width" from="0" to="240" dur="0.8s" begin="9.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c10"><rect x="36" y="340" width="0" height="22"><animate attributeName="width" from="0" to="200" dur="0.6s" begin="10.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- glowing animated border -->
+  <rect x="10" y="10" width="800" height="400" rx="16" fill="none" stroke="url(#border)" stroke-width="3" filter="url(#glow)"/>
+  <rect x="10" y="10" width="800" height="400" rx="16" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
+
+  <g clip-path="url(#win)">
+    <!-- planet / little universe -->
+    <circle cx="700" cy="250" r="70" fill="url(#planet)">
+      <animate attributeName="cy" values="250;240;250" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <ellipse cx="700" cy="250" rx="110" ry="22" fill="none" stroke="#ff3cac" stroke-opacity="0.5" stroke-width="2" transform="rotate(-20 700 250)">
+      <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- stars -->
+    <circle cx="620" cy="90" r="2" fill="#c77dff"><animate attributeName="opacity" values="1;0.1;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="120" r="1.6" fill="#00f5d4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="80" r="2.2" fill="#ff3cac"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="150" r="1.4" fill="#ffffff"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="660" cy="360" r="1.8" fill="#c77dff"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="770" cy="340" r="1.5" fill="#00f5d4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="380" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" repeatCount="indefinite"/></circle>
+
+    <!-- title bar -->
+    <rect x="10" y="10" width="800" height="40" fill="url(#bar)"/>
+    <circle cx="34" cy="30" r="6" fill="#ff5f87"/>
+    <circle cx="56" cy="30" r="6" fill="#ffd166"/>
+    <circle cx="78" cy="30" r="6" fill="#06d6a0"/>
+    <text x="410" y="35" text-anchor="middle" font-family="Fira Code, JetBrains Mono, Menlo, Consolas, monospace" font-size="13" fill="#d0b3ff">vert_k@universe: ~/universe</text>
+
+    <!-- terminal text -->
+    <g font-family="Fira Code, JetBrains Mono, Menlo, Consolas, monospace" font-size="15">
+      <text clip-path="url(#c1)" x="36" y="92"><tspan fill="#ff3cac">vert_k@universe</tspan><tspan fill="#8b7bb8">:~$ </tspan><tspan fill="#f3e8ff">whoami</tspan></text>
+      <text clip-path="url(#c2)" x="36" y="118" fill="#00f5d4">&gt; full-stack web developer | networking student</text>
+
+      <text clip-path="url(#c3)" x="36" y="158"><tspan fill="#ff3cac">vert_k@universe</tspan><tspan fill="#8b7bb8">:~$ </tspan><tspan fill="#f3e8ff">./load_status --mode=anime</tspan></text>
+      <text clip-path="url(#c4)" x="36" y="184"><tspan fill="#c77dff">FRONTEND  </tspan><tspan fill="#7b2ff7">[██████████]</tspan><tspan fill="#06d6a0"> ONLINE</tspan></text>
+      <text clip-path="url(#c5)" x="36" y="206"><tspan fill="#c77dff">BACKEND   </tspan><tspan fill="#7b2ff7">[██████████]</tspan><tspan fill="#06d6a0"> ONLINE</tspan></text>
+      <text clip-path="url(#c6)" x="36" y="228"><tspan fill="#c77dff">NETWORK   </tspan><tspan fill="#7b2ff7">[██████░░░░]</tspan><tspan fill="#ffd166"> LEARNING...</tspan></text>
+
+      <text clip-path="url(#c7)" x="36" y="268"><tspan fill="#ff3cac">vert_k@universe</tspan><tspan fill="#8b7bb8">:~$ </tspan><tspan fill="#f3e8ff">./contact --open</tspan></text>
+      <text clip-path="url(#c8)" x="36" y="294"><tspan fill="#c77dff">discord  </tspan><tspan fill="#8b7bb8">&gt;&gt; </tspan><tspan fill="#ffffff">vert_k</tspan></text>
+      <text clip-path="url(#c9)" x="36" y="316"><tspan fill="#c77dff">telegram </tspan><tspan fill="#8b7bb8">&gt;&gt; </tspan><tspan fill="#ffffff">@vert_49</tspan></text>
+
+      <text clip-path="url(#c10)" x="36" y="356"><tspan fill="#ff3cac">vert_k@universe</tspan><tspan fill="#8b7bb8">:~$ </tspan></text>
+    </g>
+
+    <!-- blinking cursor -->
+    <rect x="209" y="342" width="9" height="18" fill="#c77dff" opacity="0">
+      <animate attributeName="opacity" values="1;0" dur="1s" begin="11.2s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- scanlines -->
+    <rect x="10" y="10" width="800" height="400" fill="url(#scan)" pointer-events="none"/>
+  </g>
+</svg>
