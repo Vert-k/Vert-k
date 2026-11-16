@@ -85,8 +85,8 @@ $ _
   EDIT: replace YOUR_GITHUB_USERNAME (2 places below) with your real GitHub username
 ============================================================ -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=12032b&title_color=c77dff&text_color=e9d5ff&icon_color=ff3cac&border_color=4a1d96" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=12032b&ring=c77dff&fire=ff3cac&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&dates=c77dff&stroke=4a1d96&border=4a1d96" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vert-k&show_icons=true&bg_color=12032b&title_color=c77dff&text_color=e9d5ff&icon_color=ff3cac&border_color=4a1d96" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=vert-k&background=12032b&ring=c77dff&fire=ff3cac&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&dates=c77dff&stroke=4a1d96&border=4a1d96" alt="GitHub streak"/>
 </p>
 
 <br/>
