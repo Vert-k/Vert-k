@@ -1,4 +1,4 @@
-<svg xmlns="Hero.svg.JPG" width="820" height="260" viewBox="0 0 820 260" role="img" aria-label="Placeholder for hero image or GIF">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260" role="img" aria-label="Placeholder for hero image or GIF">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#12032b"/>
@@ -21,7 +21,7 @@
       ✦
       <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
     </text>
-    <text x="410" y="148" font-size="20" font-weight="700" fill="#f3e8ff">Hero.svg.JPG</text>
+    <text x="410" y="148" font-size="20" font-weight="700" fill="#f3e8ff">YOUR ANIME IMAGE / GIF GOES HERE</text>
     <text x="410" y="176" font-size="13" fill="#a78bfa">replace this file with hero.gif (best size: 820 x 260)</text>
   </g>
 </svg>
