@@ -19,7 +19,7 @@
   2) Change  hero-placeholder.svg  below to  hero.gif
 ============================================================ -->
 <p align="center">
-  <img src="Hero.svg.JPG" alt="hero image" width="820"/>
+  <img src="Hero1.svg.JPG" alt="hero image" width="820"/>
 </p>
 
 <br/>
